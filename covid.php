@@ -1,6 +1,14 @@
 [
 	{
 		"id": "1",
+		"title": "Covid Ambulance",
+		"title_nep": "",
+		"contact": "9851320321",
+		"contact_nep": "९८५१३२०३२१",
+		"isTitle":"0"
+	},
+	{
+		"id": "1",
 		"title": "MOHP Hot Line (6am-10pm)",
 		"title_nep": "एम.ओ.एच.पि. हत लाईन(विहान ६-बेलुका १०)",
 		"contact": "1115",
